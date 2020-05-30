@@ -1,2 +1,2 @@
-测试内容
-这是一个readme.txt
+Git is a distributed version control system.
+Git is free software.
